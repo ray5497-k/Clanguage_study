@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# C build files
+*.out
+*.o
+*.exe
+
+# temp files
+*~

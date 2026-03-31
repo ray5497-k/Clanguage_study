@@ -1,6 +1,6 @@
 # macOS
 .DS_Store
-
+.vscode/
 # C build files
 *.out
 *.o
